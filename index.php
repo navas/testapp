@@ -5,6 +5,9 @@ phpinfo();
 
 $var = array();
 
+
+echo "this is arief";
+
 foreach($var as $key)
     echo $key."</ br>";
 
