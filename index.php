@@ -15,7 +15,6 @@ foreach($var as $key)
 echo "end...123";
 
 echo "try";
-
-echo  "this is navas";
+echo "24234234";
 
 echo "this is my content";
