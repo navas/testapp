@@ -10,4 +10,3 @@
 
 echo "this is very cool";
 
-?>
