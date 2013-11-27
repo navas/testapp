@@ -10,4 +10,7 @@ foreach($var as $key)
 
 
 echo "end...123";
+
+echo "try";
+
 ?>
